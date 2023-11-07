@@ -1,0 +1,3 @@
+org.springframework.test.context.ContextCustomizerFactory = com.ciruelos.erp.\
+    config.SqlTestContainersSpringContextCustomizerFactory,com.ciruelos.erp.\
+    config.RedisTestContainersSpringContextCustomizerFactory
